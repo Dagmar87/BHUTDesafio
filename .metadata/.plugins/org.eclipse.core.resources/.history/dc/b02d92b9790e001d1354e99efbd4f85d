@@ -1,0 +1,5 @@
+package com.dagmar87.carsystem.model;
+
+public class car {
+
+}

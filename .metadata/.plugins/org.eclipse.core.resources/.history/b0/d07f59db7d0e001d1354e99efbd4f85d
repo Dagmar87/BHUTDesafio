@@ -1,0 +1,5 @@
+package com.dagmar87.carsystem.repository;
+
+public interface CarRepository {
+
+}
